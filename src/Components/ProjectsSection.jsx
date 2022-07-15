@@ -32,7 +32,7 @@ const projects = [
     link: "https://shopbop.netlify.app/",
     git: "https://github.com/iShilajit/shopbopclone",
     about:
-      " This is e-commerce application for fruits and vegetables. This was a team project where I with my teammates had created.",
+      " This is e-commerce application for Cloths and v. This was a team project where I with my teammates had created.",
     stacks: [
       // <SiReact className={styles.stackIcon} />,
       <SiJavascript className={styles.stackIcon} />,
@@ -55,12 +55,12 @@ const projects = [
   //   ],
   // },
   {
-    name: "You Tube App",
-    img: "/youtube.png",
-    link: "https://you-tube-mini.netlify.app/",
-    git: "https://github.com/sanketpatil05/Youtube",
+    name: "Headphonezone.com clone",
+    img: "headphone.jpeg",
+    link: "https://goofy-poitras-94a175.netlify.app/",
+    git: "https://github.com/SankalpJaiswal/Head-Phone-Zone.git",
     about:
-      "This project will let you design the pixel art. Let your creativity flow and convert them to images",
+    "we learn about the fundamentals of Javascript and introduction to Data Structure and Algorithms,  By using these concepts we have built our project website..",
     stacks: [
       <SiJavascript className={styles.stackIcon} />,
       <SiHtml5 className={styles.stackIcon} />,

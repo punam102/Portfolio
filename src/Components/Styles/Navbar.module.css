@@ -57,7 +57,7 @@ a {
 } */
 .logoimg {
   height: 100%;
-  /* border-radius: 50%;  */
+  border-radius: 50%; 
    /* border: 1px solid black; */
   /* margin-top: 25px; */
   margin-left: 100px;
